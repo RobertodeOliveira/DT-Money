@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createdAt": "2024-03-21T01:19:02.030Z'"
+      "createdAt": "2024-03-21T01:19:02.030Z"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
-      "createdAt": "2024-03-21T01:12:02.030Z'"
+      "createdAt": "2024-03-21T01:12:02.030Z"
     },
     {
       "id": 3,
@@ -22,7 +22,23 @@
       "type": "outcome",
       "category": "Educação",
       "price": 1980,
-      "createdAt": "2024-03-21T01:19:02.030Z'"
+      "createdAt": "2024-03-21T01:19:02.030Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-03-29T21:01:13.306Z",
+      "id": 4
+    },
+    {
+      "description": "SSD 1T",
+      "price": 500,
+      "category": "Computador",
+      "type": "outcome",
+      "createdAt": "2024-03-29T21:18:40.158Z",
+      "id": 5
     }
   ]
 }
